@@ -13,9 +13,9 @@ angular.module('ngSnake', [])
 
     var COLORS = {
       GAME_OVER: '#FFF',
-      FRUIT: '#E80505',
-      SNAKE_HEAD: '#00FF00',
-      SNAKE_BODY: '#0000FF',
+      FRUIT: '#123456',
+      SNAKE_HEAD: '#654321',
+      SNAKE_BODY: '#123456',
       BOARD: '#FFFFFF'
     };
 
